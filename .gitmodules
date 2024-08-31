@@ -1,6 +1,6 @@
-[submodule "vendor/jsPDF"]
+[submodule "to $Dennis-Babcock-2/jsPDF"]
 	path = vendor/jsPDF
 	url = git://github.com/blocktrail/jsPDF.git
 [submodule "vendor/asmcrypto.js"]
-	path = vendor/asmcrypto.js
+	path = $Dennis-Babcock-2/asmcrypto.js
 	url = https://github.com/vibornoff/asmcrypto.js
